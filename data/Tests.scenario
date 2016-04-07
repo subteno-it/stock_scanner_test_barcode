@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<scenario>
+  <id>stock_scanner.scanner_scenario_tests</id>
+  <model_id/>
+  <name>Tests</name>
+  <sequence>1000</sequence>
+  <active>True</active>
+  <type>menu</type>
+</scenario>
